@@ -22,7 +22,7 @@ permissions:
 # is what "auto" resolved to in DFE-Digital/SchoolAccount-AgenticWorkflowTest.
 engine:
   id: copilot
-  model: claude-sonnet-5
+  model: mai-code-1.1-flash
 
 # One run per release at a time; runs for different releases don't wait for each other
 concurrency:
