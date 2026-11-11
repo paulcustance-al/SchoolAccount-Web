@@ -1,8 +1,12 @@
 # Introduction
 
 Foo
-BAR
-Foo
+New Comment
+
+
+
+
+
 
 SchoolAccount-Web is an MVC presentation application for the DfE School Account service built on .NET 10. It
 uses a minimal clean architecture solution, with CQRS abstractions, structured logging, error handling, and
